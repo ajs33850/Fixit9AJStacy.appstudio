@@ -41,6 +41,22 @@
             "membership",
             "membership.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "ABMadLibs",
+            "ABMadLibs.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "twoForms",
+            "twoForms.json"
+          ]
         }
       ],
       "configxml": null,
@@ -61,7 +77,7 @@
       "exetitle": "",
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "login",
+      "firstform": "twoForms",
       "fontFamily": "system",
       "height": "",
       "homescreenTitle": "",
