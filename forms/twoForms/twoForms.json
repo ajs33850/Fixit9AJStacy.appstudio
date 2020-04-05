@@ -14,27 +14,27 @@
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "twoForms",
         "Elements",
-        "inptFirstName.json"
+        "chbxHobbies.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "twoForms",
         "Elements",
-        "btnSubmitName.json"
+        "slctColor.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "membership",
+        "twoForms",
         "Elements",
-        "lblMember.json"
+        "Label1.json"
       ]
     }
   ],
@@ -44,7 +44,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "membership",
+  "id": "twoForms",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -57,8 +57,6 @@
   "parentForm": "",
   "position": "absolute",
   "script": null,
-  "scroll_options": "mouseWheel:true, bounce:true, zoom:false",
-  "scrolling": "false",
   "setFocusID": "",
   "style": "",
   "theme": "",
